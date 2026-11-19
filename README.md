@@ -5,6 +5,10 @@ This project focuses on retail sales analysis and inventory analytics using Micr
 
 The dashboard helps analyze sales performance across different regions, products, and categories.
 
+## Dashboard Preview
+
+![Power BI Dashboard](Dashboard_Screenshot.png)
+
 ## Tools & Technologies
 - Microsoft Power BI
 - Microsoft Excel
