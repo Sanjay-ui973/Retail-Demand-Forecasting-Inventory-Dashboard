@@ -7,7 +7,7 @@ The dashboard helps analyze sales performance across different regions, products
 
 ## Dashboard Preview
 
-![Power BI Dashboard](Dashboard%Screenshot.png)
+![Power BI Dashboard](Dashboard%20Screenshot.png)
 
 ## Tools & Technologies
 - Microsoft Power BI
