@@ -37,6 +37,7 @@ The dashboard helps analyze sales performance across different regions, products
 ## Project Files
 - Power BI Dashboard (.pbix)
 - Dataset (Excel)
+- Dashboard_Screenshot.png
 
 
 
